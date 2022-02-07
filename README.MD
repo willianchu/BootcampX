@@ -7,7 +7,7 @@ This is the database queries that will run in an application to help manage data
 
 We can model these entities in an Entity Relation Diagram (ERD):
 
-![Alt text](https://github.com/willianchu/BootcampX/blob/master/doc/ERD_students_cohorts.jpg"<ERD>")
+![](https://github.com/willianchu/BootcampX/blob/master/doc/ERD_students_cohorts.jpg)
 
 
 ### Contents
