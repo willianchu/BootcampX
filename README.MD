@@ -9,6 +9,11 @@ We can model these entities in an Entity Relation Diagram (ERD):
 
 ![](https://github.com/willianchu/BootcampX/blob/master/doc/ERD_students_cohorts.jpg)
 
+These are related with two other tables in our database
+
+![](https://github.com/willianchu/BootcampX/blob/master/doc/assignments_submissions.jpg)
+
+A student will be able to submit an assignment_submissions for every single assignment. So a student will submit many assignment_submissions and an assignment will have many assignment_submissions associated with it.
 
 ### Contents
 
