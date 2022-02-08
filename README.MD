@@ -7,12 +7,12 @@ This is the database queries that will run in an application to help manage data
 
 We can model these entities in an Entity Relation Diagram (ERD):
 
-![Alt text](/doc/ERD_students_cohorts.jpg"<ERD>")
+![](https://github.com/willianchu/BootcampX/blob/master/doc/ERD_students_cohorts.jpg)
 
 
 ### Contents
 
-[About this BootcampX](#about-this-BootcampX)<br/>
+[About BootcampX](#about-BootcampX)<br/>
 [Before you begin](#before-you-begin)<br/>
 [Run this BootcampX](#run-this-BootcampX)<br/>
 [BootcampX details](#BootcampX-details)<br/>
@@ -20,7 +20,7 @@ We can model these entities in an Entity Relation Diagram (ERD):
 [Related links](#related-links)<br/>
 
 
-<a name=about-this-BootcampX></a>
+<a name=about-BootcampX></a>
 
 ## About this BootcampX
 
